@@ -2,7 +2,7 @@
     "name": "IKONIC Healthcare",
     "short_name": "IKONIC",
     "description": "IKONIC Healthcare provides top-quality medical services.",
-    "start_url":  https://trcxicon.github.io/ikonic/,
+    "start_url":  /index.html,
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4CAF50",
